@@ -1,4 +1,4 @@
-##Django CSE dept Website package
+##Django Computer Science and Engineering Department Website package
 
 A CSE dept. website which is built on Django Backend and uses Materialize CSS framework in frontend. 
 
