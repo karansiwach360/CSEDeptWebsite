@@ -22,7 +22,7 @@ A CSE dept. website which is built on Django Backend and uses Materialize CSS fr
 - Tkinter
 
 ####Contributors:
-- Karan Siwach(15074008)
+- Karan Siwach (15074008)
 - Harsh Rangwani (15075018)
 - Rahul Anand(15075040)
 - Pritesh Samant(15075043)
