@@ -1,6 +1,6 @@
 ##Django Computer Science and Engineering Department Website package
 
-A CSE dept. website which is built on Django Backend and uses Materialize CSS framework in frontend. 
+A CSE department, IIT Varanasi website which is built on Django Backend and uses Materialize CSS framework in frontend. 
 
 ####Steps to run locally:
 - cd path/env_mysite/
